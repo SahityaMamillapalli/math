@@ -78,6 +78,7 @@ scholar:
   details_link: Details
 
 header_pages:
+  - search.md
   - changelog.md
 
 collections:
